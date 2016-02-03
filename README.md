@@ -1,2 +1,2 @@
 # IOT
-### Getting started with the Internet of Everything
+Getting started with the Internet of Everything
